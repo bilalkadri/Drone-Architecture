@@ -1,0 +1,3 @@
+[console_scripts]
+mavros_subscriber = mavros_bridge_listener.mavros_subscriber:main
+

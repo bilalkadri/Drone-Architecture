@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/mavros_bridge_listener/mavros_bridge_listener.egg-info
+writing ../../build/mavros_bridge_listener/mavros_bridge_listener.egg-info/PKG-INFO
+writing dependency_links to ../../build/mavros_bridge_listener/mavros_bridge_listener.egg-info/dependency_links.txt
+writing entry points to ../../build/mavros_bridge_listener/mavros_bridge_listener.egg-info/entry_points.txt
+writing requirements to ../../build/mavros_bridge_listener/mavros_bridge_listener.egg-info/requires.txt
+writing top-level names to ../../build/mavros_bridge_listener/mavros_bridge_listener.egg-info/top_level.txt
+writing manifest file '../../build/mavros_bridge_listener/mavros_bridge_listener.egg-info/SOURCES.txt'
+reading manifest file '../../build/mavros_bridge_listener/mavros_bridge_listener.egg-info/SOURCES.txt'
+writing manifest file '../../build/mavros_bridge_listener/mavros_bridge_listener.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/aeel/mavros_bridge_ws/build/mavros_bridge_listener/build
+creating /home/aeel/mavros_bridge_ws/build/mavros_bridge_listener/build/lib
+creating /home/aeel/mavros_bridge_ws/build/mavros_bridge_listener/build/lib/mavros_bridge_listener
+copying mavros_bridge_listener/mavros_subscriber.py -> /home/aeel/mavros_bridge_ws/build/mavros_bridge_listener/build/lib/mavros_bridge_listener
+copying mavros_bridge_listener/__init__.py -> /home/aeel/mavros_bridge_ws/build/mavros_bridge_listener/build/lib/mavros_bridge_listener
+running install
+running install_lib
+creating /home/aeel/mavros_bridge_ws/install/mavros_bridge_listener/lib/python3.8/site-packages/mavros_bridge_listener
+copying /home/aeel/mavros_bridge_ws/build/mavros_bridge_listener/build/lib/mavros_bridge_listener/mavros_subscriber.py -> /home/aeel/mavros_bridge_ws/install/mavros_bridge_listener/lib/python3.8/site-packages/mavros_bridge_listener
+copying /home/aeel/mavros_bridge_ws/build/mavros_bridge_listener/build/lib/mavros_bridge_listener/__init__.py -> /home/aeel/mavros_bridge_ws/install/mavros_bridge_listener/lib/python3.8/site-packages/mavros_bridge_listener
+byte-compiling /home/aeel/mavros_bridge_ws/install/mavros_bridge_listener/lib/python3.8/site-packages/mavros_bridge_listener/mavros_subscriber.py to mavros_subscriber.cpython-38.pyc
+byte-compiling /home/aeel/mavros_bridge_ws/install/mavros_bridge_listener/lib/python3.8/site-packages/mavros_bridge_listener/__init__.py to __init__.cpython-38.pyc
+running install_data
+copying package.xml -> /home/aeel/mavros_bridge_ws/install/mavros_bridge_listener/share/mavros_bridge_listener
+running install_egg_info
+Copying ../../build/mavros_bridge_listener/mavros_bridge_listener.egg-info to /home/aeel/mavros_bridge_ws/install/mavros_bridge_listener/lib/python3.8/site-packages/mavros_bridge_listener-0.0.0-py3.8.egg-info
+running install_scripts
+Installing mavros_subscriber script to /home/aeel/mavros_bridge_ws/install/mavros_bridge_listener/lib/mavros_bridge_listener
+writing list of installed files to '/home/aeel/mavros_bridge_ws/build/mavros_bridge_listener/install.log'

@@ -1,0 +1,17 @@
+<package format="3">
+  <name>mavros_bridge_listener</name>
+  <version>0.0.0</version>
+  <description>ROS2 subscriber for bridged MAVROS topics</description>
+  <maintainer email="your@email.com">your_name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
