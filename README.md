@@ -57,6 +57,8 @@ ros2 run ros1_bridge dynamic_bridge
 #Terminal 4
 source /opt/ros/foxy/setup.bash
 cd ~/mavros_bridge_ws
+
+[![DOI](https://zenodo.org/badge/1027278697.svg)](https://doi.org/10.5281/zenodo.16575403)
 source install/setup.bash
 ros2 run mavros_bridge_listener mavros_subscriber
 
